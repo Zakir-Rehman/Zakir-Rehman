@@ -94,3 +94,9 @@ font-family: sans-serif;
   <li>CI/CD & DevOps: GitHub, Git, Basic GitHub Actions, Deployment Awareness</li>
   <li>Development Workflow & Tools: VS Code, Postman, npm, Debugging, REST API Testing, Project Structuring</li>
 </ol>
+<hr>
+<h1 style="
+font-family: sans-serif;
+ letter-spacing: 2px;
+      ">🌐 Portfolio</h1>
+      <a href="https://zakirrehmanmalaportfolio.netlify.app">Zakir Rehman Mala Portfolio ...</a>
