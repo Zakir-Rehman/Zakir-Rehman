@@ -7,7 +7,14 @@ I specialize in developing full-stack applications using React, React Native, No
 I am highly motivated to solve real-world problems through technology and enjoy working on projects that challenge my abilities and help me grow as a developer.
 
 <h2>🌐 Connect with Me</h2>
-
+<div style="
+      display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+  ">
 <a href="www.linkedin.com/in/zakir-rehman-mala-24552136b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -23,11 +30,18 @@ I am highly motivated to solve real-world problems through technology and enjoy 
 <a href="mailto:YOUR_GMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+</div>
 <hr>
 
 <h2>🛠️ Tech Stack</h2>
-<div style="display:flex;flex-direction:row">
+<div style="
+      display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+  ">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
