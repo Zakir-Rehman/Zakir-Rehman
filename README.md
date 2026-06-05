@@ -1,4 +1,8 @@
-<h1>💫 About Me </h1>
+<h1 style="
+font-family: sans-serif;
+ letter-spacing: 2px;
+      "
+>💫 About Me </h1>
 
 I am a passionate Full-Stack Web and Mobile App Developer (React & React Native) from Pakistan, focused on building modern, responsive, and scalable digital solutions. I enjoy turning ideas into real-world applications using clean, efficient, and maintainable code.
 
@@ -6,10 +10,10 @@ I specialize in developing full-stack applications using React, React Native, No
 
 I am highly motivated to solve real-world problems through technology and enjoy working on projects that challenge my abilities and help me grow as a developer.
 
-<h2>🌐 Connect with Me</h2>
+<h2 style="font-family: sans-serif;">🌐 Connect with Me</h2>
 <div style="
       display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     gap: 5px;
     align-items: center;
