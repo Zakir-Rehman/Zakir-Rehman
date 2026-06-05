@@ -8,7 +8,7 @@ I am highly motivated to solve real-world problems through technology and enjoy 
 
 <h2>🌐 Connect with Me</h2>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/zakir-rehman-mala-24552136b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -27,7 +27,7 @@ I am highly motivated to solve real-world problems through technology and enjoy 
 <hr>
 
 <h2>🛠️ Tech Stack</h2>
-
+<div style="display:flex;flex-direction:row">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -55,3 +55,4 @@ I am highly motivated to solve real-world problems through technology and enjoy 
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</div>
