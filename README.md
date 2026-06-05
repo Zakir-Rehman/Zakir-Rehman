@@ -9,7 +9,7 @@ I am a passionate Full-Stack Web and Mobile App Developer (React & React Native)
 I specialize in developing full-stack applications using React, React Native, Node.js, and REST APIs, with a strong focus on performance, usability, and smooth user experience. I am continuously improving my skills and staying updated with modern development practices to build production-ready and scalable systems.
 
 I am highly motivated to solve real-world problems through technology and enjoy working on projects that challenge my abilities and help me grow as a developer.
-
+<hr>
 <h2 style="font-family: sans-serif;">🌐 Connect with Me</h2>
 <div style="
       display: flex;
@@ -37,7 +37,11 @@ I am highly motivated to solve real-world problems through technology and enjoy 
 </div>
 <hr>
 
-<h2>🛠️ Tech Stack</h2>
+<h2 style="
+font-family: sans-serif;
+ letter-spacing: 2px;
+      "
+ >🛠️ Tech Stack</h2>
 <div style="
       display: flex;
     flex-direction: row;
@@ -74,3 +78,19 @@ I am highly motivated to solve real-world problems through technology and enjoy 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </div>
+
+<hr>
+
+<h1 style="
+font-family: sans-serif;
+ letter-spacing: 2px;
+      ">🛠️ Skills & Technologies</h1>
+
+<ol> 
+  <li>Mobile App Development: React Native, Android, iOS</li>
+  <li>Web Development: HTML5, CSS3 ,React.js, Ejs</li>
+  <li>Cloud & Databases: Firebase, SQL, MongoDB</li>
+  <li>State Management: Redux Toolkit, Redux, React Query</li>
+  <li>CI/CD & DevOps: GitHub, Git, Basic GitHub Actions, Deployment Awareness</li>
+  <li>Development Workflow & Tools: VS Code, Postman, npm, Debugging, REST API Testing, Project Structuring</li>
+</ol>
