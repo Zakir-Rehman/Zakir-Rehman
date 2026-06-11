@@ -99,4 +99,4 @@ font-family: sans-serif;
 font-family: sans-serif;
  letter-spacing: 2px;
       ">🌐 Portfolio</h1>
-      <a href="https://zakirrehmanmalaportfolio.netlify.app">Zakir Rehman Mala Portfolio ...</a>
+      <a href="https://zakirrehmanmalaportfolio.netlify.app">Click here to visit portfolio...</a>
